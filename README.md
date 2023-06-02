@@ -1,4 +1,3 @@
-# FahmiMaruoka Portfolio
-[FahmiMaruoka.tech](FahmiMaruoka.tech)
+# FahmiMaruoka Portfolio Site [maruokasan.github.io](url)
 
 Portfolio Page
